@@ -1,6 +1,7 @@
 # EVENT REVSCRIPT / MonsterHunter
 
-Observações: Transformei esse script pra RevScript, compativel com a [OTBR](https://github.com/opentibiabr/otservbr-global.git)
+Observações: Transformei esse script pra RevScript, compativel com a [OTBR](https://github.com/opentibiabr/otservbr-global.git).<br>
+             Caso ocorrer algum erro, abra um [Issues](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-MonsterHunter/issues).
 
 Creditos ao Breno Alves / TibiaKing
 
