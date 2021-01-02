@@ -4,9 +4,9 @@ Observações:
 
 » Transformei esse script pra RevScript, compativel com a [OTBR](https://github.com/opentibiabr/otservbr-global.git).<br>
 » Caso ocorrer algum erro, abra um [Issues](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-MonsterHunter/issues).<br>
-» Caso queira contribuir ou corrigir algum bug, abra ul [Pull requests](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-MonsterHunter/pulls).
+» Caso queira contribuir ou corrigir algum erro, abra um [Pull requests](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-MonsterHunter/pulls).
 
-® Creditos ao Breno Alves / TibiaKing
+Creditos ao Breno Alves / TibiaKing ® 
 
 1. Como funciona?
 
