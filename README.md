@@ -16,6 +16,6 @@
 
 » *Para instalar sem erro, basta jogar os scripts nos respectivos locais e adicionar o que falta.*
 
-3. **Creditos**
+3. **Créditos**
 
 » *Créditos a Breno Alves / TibiaKing*
