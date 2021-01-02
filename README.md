@@ -8,12 +8,9 @@ Observações:
 
 1. Como funciona?
 
-» *Durante uma hora, o player que mais matar um monstro específico ganha o evento.*
+» *São formados por dois times. O sistema tem por finalidade matar todos do time inimigo, e os participantes que sobreviverem do time vencedor receberá a recompensa.*
 
 2. Como instalar?
 
 » *Para instalar sem erro, basta jogar os scripts nos respectivos locais e adicionar o que falta.*
-<br>
-<br>
-<br>
-Creditos ao Breno Alves / TibiaKing ®
+
