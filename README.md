@@ -10,7 +10,7 @@
 
 1. **Como funciona?**
 
-» *Durante uma hora, o player que mais matar um monstro específico ganha o evento.*
+» *Durante uma hora, o player que mais matar um monstro sorteado pelo sistema, ganha o evento.*
 
 2. **Como instalar?**
 
