@@ -13,10 +13,7 @@ Observações:
 2. Como instalar?
 
 » *Para instalar sem erro, basta jogar os scripts nos respectivos locais e adicionar o que falta.*
-
-
-
-
-
-
+<br>
+<br>
+<br>
 Creditos ao Breno Alves / TibiaKing ®
