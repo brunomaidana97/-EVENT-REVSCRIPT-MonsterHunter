@@ -8,9 +8,8 @@ Observações:
 
 1. Como funciona?
 
-» *São formados por dois times.<br>» O evento tem por finalidade matar todos do time inimigo, e os participantes que sobreviverem do time vencedor receberá a recompensa.*
+» *Durante uma hora, o player que mais matar um monstro específico ganha o evento.*
 
 2. Como instalar?
 
 » *Para instalar sem erro, basta jogar os scripts nos respectivos locais e adicionar o que falta.*
-
