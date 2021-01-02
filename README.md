@@ -1,1 +1,3 @@
-# -EVENT-REVSCRIPT-Battlefield
+# -EVENT-REVSCRIPT-MonsterHunter
+
+Creditos ao Breno Alves / TibiaKing
