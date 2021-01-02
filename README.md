@@ -8,7 +8,7 @@ Observações:
 
 1. Como funciona?
 
-» *São formados por dois times.<br>» O sistema tem por finalidade matar todos do time inimigo, e os participantes que sobreviverem do time vencedor receberá a recompensa.*
+» *São formados por dois times.<br>» O evento tem por finalidade matar todos do time inimigo, e os participantes que sobreviverem do time vencedor receberá a recompensa.*
 
 2. Como instalar?
 
